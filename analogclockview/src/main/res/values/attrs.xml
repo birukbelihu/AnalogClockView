@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClockView">
+        <attr name="hourHandColor" format="color" />
+        <attr name="minuteHandColor" format="color" />
+        <attr name="secondHandColor" format="color" />
+        <attr name="numeralColor" format="color" />
+        <attr name="clockFaceColor" format="color" />
+        <attr name="hourHandThickness" format="dimension" />
+        <attr name="minuteHandThickness" format="dimension" />
+        <attr name="secondHandThickness" format="dimension" />
+        <attr name="fontSize" format="dimension" />
+        <attr name="is24HourFormat" format="boolean" />
+        <attr name="numeralFont" format="reference" />
+    </declare-styleable>
+</resources>
