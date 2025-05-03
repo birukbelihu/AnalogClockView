@@ -42,6 +42,10 @@ Add AnalogClockView View In Your XML File.
 
 See [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) For More Customizations.
 
+## License
+
+This library is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for more details.
+
 ## Social Media Pages
 
 If You Want More Android App Development Tutorials & Projects Check My Social Media Pages.
