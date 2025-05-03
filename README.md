@@ -51,7 +51,7 @@ See Sample App For More Customizations.
 
 If you want more Android app development tutorials & projects, check my social media pages.
 
-**Telegram**: [https://t.me/androiddevstutorial](https://t.me/androiddevstutorial)  
+**Telegram**: [https://t.me/androiddevstutorial](https://t.me/androiddevstutorial)
 **YouTube**: [https://youtube.com/@AndroidDevsTutorials](https://youtube.com/@AndroidDevsTutorials)  
 **Blogger**: [https://androiddevelopersb.blogspot.com](https://androiddevelopersb.blogspot.com)  
 **WhatsApp**: [https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K](https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K)  
