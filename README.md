@@ -44,7 +44,7 @@ See [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) 
 
 ## Social Media Pages
 
-If You Want More Android App Development Tutorials & Projects Check My Social Media Pages.
+If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
 
 **Telegram** :- https://t.me/androiddevstutorial
 
