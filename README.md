@@ -30,7 +30,7 @@ Add AnalogClockView Library Dependency In App Level build.gradle File Of Your Pr
 
 ```
 dependencies {
-  implementation 'com.github.birukbelihu:analogclockview:1.0'
+  implementation 'com.github.birukbelihu:analogclockview:1.0.0'
 }
 ```
 
