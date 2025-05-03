@@ -47,3 +47,13 @@ Add AnalogClockView View In Your XML File.
 
 See Sample App For More Customizations.
 
+## Social Media Pages
+
+If you want more Android app development tutorials & projects, check my social media pages.
+
+**Telegram**: [https://t.me/androiddevstutorial](https://t.me/androiddevstutorial)  
+**YouTube**: [https://youtube.com/@AndroidDevsTutorials](https://youtube.com/@AndroidDevsTutorials)  
+**Blogger**: [https://androiddevelopersb.blogspot.com](https://androiddevelopersb.blogspot.com)  
+**WhatsApp**: [https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K](https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K)  
+**LinkTree**: [https://linktr.ee/androiddeveloperspage](https://linktr.ee/androiddeveloperspage)
+
