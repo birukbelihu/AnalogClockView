@@ -10,7 +10,7 @@ A Minimalist, Highly Customizable, Easy To Use Analog Clock View For Android
 # Features
 
 - Lightweight And Easy To Use
-- Highly Customizable Check The Sample App For More Info
+- Highly Customizable Check The [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) For More Info
 - Real-Time Updates
 
 # Installation
@@ -45,7 +45,7 @@ Add AnalogClockView View In Your XML File.
         android:layout_height="250dp"/>
 ```
 
-See Sample App For More Customizations.
+See [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) For More Customizations.
 
 ## Social Media Pages
 
