@@ -1,16 +1,19 @@
-apply plugin: 'com.android.library'
+plugins {
+    id 'com.android.library'
+    id 'maven-publish'
+}
 
 android {
     compileSdkVersion 21
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "com.biruk.analogclockview"
-        minSdkVersion 14
-        targetSdkVersion 21
+        minSdkVersion 17
+        targetSdkVersion 34
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
+
     buildTypes {
         release {
             minifyEnabled false
@@ -21,4 +24,22 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+publishing {
+    publications {
+        release(MavenPublication) {
+            groupId = 'com.github.birukbelihu'
+            artifactId = 'analogclockview'
+            version = '1.0.0'
+
+            from components.release
+        }
+    }
+
+    repositories {
+        maven {
+            url = uri("https://jitpack.io")
+        }
+    }
 }
