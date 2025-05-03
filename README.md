@@ -26,6 +26,8 @@ dependencies {
 }
 ```
 
+Soon It Will Be Available In [jitpack](https://jitpack.io).
+
 
 # Usage
 
