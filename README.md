@@ -7,6 +7,12 @@
 
 A Minimalist, Highly Customizable, Easy To Use Analog Clock View For Android
 
+# Features
+
+- Lightweight And Easy To Use
+- Highly Customizable Check The Sample App For More Info
+- Real-Time Updates
+
 # Installation
 
 Add Jitpack Repository In The Project Level build.gradle File Of Your Project.
