@@ -31,18 +31,7 @@ Add AnalogClockView View In Your XML File.
     <com.biruk.analogclockview.AnalogClockView
         android:id="@+id/analogClockView1"
         android:layout_width="250dp"
-        android:layout_height="250dp"
-		app:hourHandColor="@android:color/black"
-		app:minuteHandColor="@android:color/darker_gray"
-		app:secondHandColor="@android:color/holo_red_dark"
-		app:clockFaceColor="@android:color/darker_gray"
-		app:numeralColor="#FF14B2EB"
-		app:hourHandThickness="6dp"
-		app:minuteHandThickness="4dp"
-		app:secondHandThickness="2dp"
-		app:fontSize="16sp"
-		app:is24HourFormat="false"
-		app:numeralFont="@font/roboto-regular"/>
+        android:layout_height="250dp"/>
 ```
 
 See Sample App For More Customizations.
