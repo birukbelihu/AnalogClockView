@@ -15,24 +15,17 @@ A Minimalist, Highly Customizable, Easy To Use Analog Clock View For Android
 
 # Installation
 
-Add Jitpack Repository In The Project Level build.gradle File Of Your Project.
+Add The Analogclockview Module To Your Android Project In Android Studio By Selecting File -> New -> Import Module, Select analogclockview & Sync The Project.
 
-```
-allprojects {
-  repositories {
-    ...
-    maven { url 'https://jitpack.io' }
-  }
-}
-```
+Or You Can Manually Copy The Module In To Your Project Root Folder & Add It As Dependency In Your app Module.
 
-Add AnalogClockView Library Dependency In App Level build.gradle File Of Your Project.
 
 ```
 dependencies {
-  implementation 'com.github.birukbelihu:analogclockview:1.0'
+    implementation project(': analogclockview')
 }
 ```
+
 
 # Usage
 
