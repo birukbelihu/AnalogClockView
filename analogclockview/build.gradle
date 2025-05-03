@@ -29,7 +29,7 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = 'com.github.birukbelihu'
+            groupId = 'com.github.BirukBelihu'
             artifactId = 'analogclockview'
             version = '1.0.0'
 
