@@ -53,5 +53,5 @@ If You Want More Android App Development Tutorials & Projects Check My Social Me
 
 **WhatsApp** :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
 
-**LinkTree** :-  
+**LinkTree** :-
 https://linktr.ee/androiddeveloperspage
