@@ -17,7 +17,7 @@ A Minimalist, Highly Customizable, Easy To Use Analog Clock View For Android
 
 Add The [analogclockview](/analogclockview) Module To Your Android Project In Android Studio By Selecting File -> New -> Import Module, Select analogclockview & Sync The Project.
 
-Or You Can Manually Copy The Module In To Your Project Root Folder & Add It As Dependency In Your app Module.
+Or You Can Manually Copy The Module In To Your Project Root Folder & Add It As Dependency In Your app Module build.gradle File.
 
 
 ```
