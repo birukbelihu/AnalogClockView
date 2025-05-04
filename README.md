@@ -40,7 +40,7 @@ Add AnalogClockView View In Your XML File.
         android:layout_height="250dp"/>
 ```
 
-See [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) For More Customizations.
+See [Sample App](https://github.com/birukbelihu/AnalogClockView/tree/main/app/) For Customizations.
 
 ## Social Media Pages
 
