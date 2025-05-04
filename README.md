@@ -22,7 +22,7 @@ Or You Can Manually Copy The Module In To Your Project Root Folder & Add It As D
 
 ```
 dependencies {
-    implementation project(': analogclockview')
+    implementation project(':analogclockview')
 }
 ```
 
