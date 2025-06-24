@@ -184,8 +184,6 @@ public class AnalogClockView extends View {
 		paint.setStrokeWidth(strokeWidth);
 		canvas.drawLine(width / 2f, height / 2f, endX, endY, paint);
 	}
-
-	// Public setters
 	public void setHourHandColor(int color) {
 		this.hourHandColor = color;
 		invalidate();
