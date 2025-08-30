@@ -1,7 +1,7 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/BrailleTranslator)
-![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/BrailleTranslator)
-![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/BrailleTranslator)
-![GitHub license](https://img.shields.io/github/license/BirukBelihu/BrailleTranslator)
+![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/AnalogClockView)
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/AnalogClockView))
+![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/AnalogClockView))
+![GitHub license](https://img.shields.io/github/license/BirukBelihu/AnalogClockView))
 
 # AnalogClockView
 
