@@ -1,5 +1,5 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/AnalogClockView)
-![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/AnalogClockView))
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/AnalogClockView)
 ![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/AnalogClockView)
 ![GitHub license](https://img.shields.io/github/license/BirukBelihu/AnalogClockView)
 
